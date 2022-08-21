@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.filtrs {
+  margin-top: 20px;
+}
+
+.filtr {
+  margin-left: 10px;
+  background-color: grey;
+  border: none;
+  font-size: 20px;
+}
+
